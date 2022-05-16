@@ -7,5 +7,5 @@ www.ReyesAI.fund
 Contributors:
 
 www.github.com/jenniferreyesdev
-www.github.com/dianareyesferr
+www.github.com/dreyesferr
 www.github.com/byronreyesdev
